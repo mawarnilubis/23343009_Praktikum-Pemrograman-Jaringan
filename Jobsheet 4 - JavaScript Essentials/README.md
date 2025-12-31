@@ -1,22 +1,42 @@
-# Jobsheet 4 - JavaScript Essentials
+# JobSheet 4 – JavaScript Essentials
 
-1. **JavaScript sebagai Bahasa Pemrograman**  
-   JavaScript adalah bahasa skrip yang digunakan untuk membangun aplikasi web interaktif. Dengan JavaScript, halaman web dapat merespons interaksi pengguna tanpa harus memuat ulang seluruh halaman, sehingga meningkatkan **dinamika dan responsivitas**.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Essentials-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Praktikum-Pemrograman%20Jaringan-blue" />
+</p>
 
-2. **Sejarah Singkat JavaScript**  
-   - Diciptakan oleh **Brendan Eich** pada tahun 1995 dengan nama awal *LiveScript*.  
-   - Berganti nama menjadi **JavaScript** untuk memanfaatkan popularitas Java.  
-   - Perkembangan besar terjadi melalui **jQuery** pada 2000-an dan semakin kuat dengan munculnya **framework modern** seperti React, Vue.js, dan Angular.
+---
 
-3. **Peran JavaScript dalam Aplikasi Berbasis Jaringan**  
-   - Menyediakan **antarmuka pengguna dinamis** melalui manipulasi DOM.  
-   - Mendukung **pembaruan data real-time** tanpa refresh halaman penuh.  
-   - Memungkinkan **interaksi natural** dengan elemen web (form, tombol, grafik).  
-   - Digunakan dalam **teknik Ajax** untuk komunikasi server asinkron.  
+## Deskripsi JobSheet
 
-4. **Teknologi Pendukung**  
-   - **Ajax (Asynchronous JavaScript and XML)** → komunikasi server tanpa mengganggu pengalaman pengguna.  
-   - **Framework & Library** → React, Angular, dan Vue.js yang memperluas kemampuan JavaScript dalam membangun aplikasi kompleks.  
+JobSheet 4 membahas **JavaScript Essentials**, yaitu konsep dasar JavaScript
+sebagai bahasa pemrograman utama dalam pengembangan aplikasi web dan aplikasi
+berbasis jaringan.  
+Pada JobSheet ini, mahasiswa mempelajari karakteristik JavaScript, sejarah
+perkembangannya, serta peran JavaScript dalam membangun aplikasi yang **dinamis,
+interaktif, dan responsif**.
 
-5. **Peran dalam Pemrograman Jaringan Modern**  
-   JavaScript adalah pilar penting dalam dunia web dan aplikasi jaringan. Dengan sifatnya yang **dinamis, interaktif, dan real-time**, JavaScript mampu memenuhi kebutuhan pengguna modern yang menuntut kecepatan dan fleksibilitas dalam interaksi online.
+---
+
+## Tujuan Pembelajaran
+
+Setelah menyelesaikan JobSheet ini, mahasiswa diharapkan mampu:
+
+- Memahami JavaScript sebagai bahasa pemrograman
+- Menjelaskan sejarah dan perkembangan JavaScript
+- Memahami peran JavaScript dalam aplikasi berbasis jaringan
+- Mengenal teknologi pendukung JavaScript
+- Memahami peran JavaScript dalam pemrograman jaringan modern
+
+---
+
+## Konsep yang Dipelajari
+
+- JavaScript sebagai bahasa pemrograman untuk aplikasi web interaktif
+- Sejarah JavaScript dan perkembangannya
+- Peran JavaScript dalam aplikasi berbasis jaringan
+- Manipulasi DOM untuk antarmuka pengguna dinamis
+- Teknik Ajax untuk komunikasi server secara asinkron
+- Teknologi pendukung JavaScript seperti Ajax serta framework dan library modern
+
+---
