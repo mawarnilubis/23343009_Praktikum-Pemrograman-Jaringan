@@ -1,4 +1,4 @@
-# 🚀 JobSheet 1 – Pengantar NodeJS
+# JobSheet 1 – Pengantar NodeJS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-Introduction-brightgreen?logo=node.js&logoColor=white" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Deskripsi JobSheet
+## Deskripsi JobSheet
 
 JobSheet 1 merupakan pengantar dasar penggunaan **Node.js** dalam mata kuliah  
 **Praktikum Pemrograman Jaringan**.  
@@ -15,7 +15,7 @@ Pada JobSheet ini, mahasiswa mempelajari konsep dasar Node.js sebagai *runtime e
 
 ---
 
-## 🎯 Tujuan Pembelajaran
+## Tujuan Pembelajaran
 
 Setelah menyelesaikan JobSheet ini, mahasiswa diharapkan mampu:
 
@@ -27,7 +27,7 @@ Setelah menyelesaikan JobSheet ini, mahasiswa diharapkan mampu:
 
 ---
 
-## 🧠 Konsep yang Dipelajari
+## Konsep yang Dipelajari
 
 - Node.js sebagai JavaScript Runtime
 - Core Module `http`
