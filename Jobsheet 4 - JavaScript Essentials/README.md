@@ -1,7 +1,7 @@
 # JobSheet 4 – JavaScript Essentials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Essentials-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-Introduction-brightgreen?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Praktikum-Pemrograman%20Jaringan-blue" />
 </p>
 
