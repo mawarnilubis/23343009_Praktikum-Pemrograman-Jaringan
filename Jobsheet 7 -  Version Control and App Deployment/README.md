@@ -1,14 +1,57 @@
-# Jobsheet 7 – Version Control and App Deployment
+# JobSheet 7 – Version Control and App Deployment
 
-Dari jobsheet ini, saya memperoleh pengalaman langsung dalam mengelola source code aplikasi Node.js menggunakan Version Control System (Git) serta melakukan deployment aplikasi ke lingkungan produksi. Materi yang dipelajari mencakup penggunaan Git untuk melacak perubahan kode, pembuatan repository di GitHub, pengelolaan commit, serta konfigurasi file .gitignore untuk mengatur file yang tidak perlu dilacak.
+<p align="center">
+  <img src="https://img.shields.io/badge/Version%20Control-Deployment-brightgreen?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Praktikum-Pemrograman%20Jaringan-blue" />
+</p>
 
-Selain itu, pada jobsheet ini saya mempelajari proses deployment aplikasi web berbasis Express.js ke platform cloud Vercel, mulai dari menghubungkan repository GitHub, menyesuaikan konfigurasi aplikasi agar kompatibel dengan environment produksi, hingga memastikan aplikasi dapat diakses secara online melalui URL publik.
+---
 
-# Kesimpulan
+## Deskripsi JobSheet
 
-Dari jobsheet ini, saya memahami bahwa version control dan deployment merupakan bagian krusial dalam pengembangan aplikasi modern. Git memungkinkan pengembang untuk mengelola perubahan kode secara terstruktur, aman, dan kolaboratif, sementara GitHub berperan sebagai repository terpusat untuk menyimpan dan mendistribusikan source code.
+JobSheet 7 membahas penerapan **Version Control System (Git)** dalam pengelolaan
+source code aplikasi Node.js serta proses **deployment aplikasi** ke lingkungan
+produksi.  
+Pada JobSheet ini, mahasiswa mempelajari cara melacak perubahan kode, mengelola
+repository menggunakan **GitHub**, serta melakukan deployment aplikasi Express.js
+ke platform cloud agar dapat diakses secara online.
 
-Saya juga memahami alur deployment aplikasi Node.js dari lingkungan lokal ke server produksi menggunakan layanan cloud. Dengan melakukan deployment ke Vercel, saya belajar bagaimana menyesuaikan konfigurasi port, script aplikasi, serta memastikan aplikasi berjalan stabil di environment produksi.
+---
 
-Melalui jobsheet ini, saya tidak hanya mampu membuat aplikasi berjalan secara lokal, tetapi juga mempublikasikannya agar dapat diakses oleh pengguna secara online, sehingga memberikan pemahaman menyeluruh tentang workflow pengembangan aplikasi backend mulai dari development, version control, hingga deployment.
+## Tujuan Pembelajaran
 
+Setelah menyelesaikan JobSheet ini, mahasiswa diharapkan mampu:
+
+- Memahami konsep **Version Control System**
+- Menggunakan **Git** untuk mengelola perubahan source code
+- Membuat dan mengelola repository pada **GitHub**
+- Mengatur file yang tidak perlu dilacak menggunakan `.gitignore`
+- Melakukan deployment aplikasi Node.js ke lingkungan produksi
+- Memastikan aplikasi dapat diakses melalui URL publik
+
+---
+
+## Konsep yang Dipelajari
+
+- Version Control System (VCS)
+- Git dan GitHub
+- Repository, commit, dan branch
+- File `.gitignore`
+- Deployment aplikasi Node.js
+- Platform cloud **Vercel**
+- Konfigurasi aplikasi untuk environment produksi
+
+---
+
+## Kesimpulan
+
+Melalui JobSheet 7 ini, mahasiswa memperoleh pemahaman mengenai pentingnya
+**version control** dan **deployment** dalam pengembangan aplikasi modern.  
+Git digunakan untuk mengelola perubahan kode secara terstruktur dan aman, sementara
+GitHub berfungsi sebagai repository terpusat untuk menyimpan dan mendistribusikan
+source code.  
+Selain itu, mahasiswa juga mempelajari proses deployment aplikasi Node.js ke
+lingkungan produksi menggunakan **Vercel**, sehingga aplikasi tidak hanya berjalan
+secara lokal tetapi juga dapat diakses oleh pengguna secara online.
+
+---
