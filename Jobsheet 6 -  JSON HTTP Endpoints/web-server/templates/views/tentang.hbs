@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{> head }}
+  <body>
+    <div class="main-content">
+      {{> header }}
+
+      <section class="about-section">
+        <div class="container">
+          <div class="profile">
+            <img src="/img/me.jpg" alt="Foto Pengembang" class="profile-img">
+            <div class="profile-info">
+              <h1 class="name">M. Ilham</h1>
+              <h2 class="role">Pengembang Aplikasi Cek Cuaca</h2>
+              <p class="bio">
+                Halo! Saya Ilham, seorang pengembang web yang senang bereksperimen dengan Node.js,
+                Express, dan API. Aplikasi ini dibuat untuk memudahkan pengguna
+                mengetahui kondisi cuaca secara real-time di berbagai lokasi.
+              </p>
+            </div>
+          </div>
+
+          <div class="info-cards">
+            <div class="card">
+              <h3>Tujuan Aplikasi</h3>
+              <p>
+                Menyediakan prediksi cuaca yang akurat dan cepat dengan antarmuka
+                yang sederhana dan menarik.
+              </p>
+            </div>
+            <div class="card">
+              <h3>Teknologi</h3>
+              <ul>
+                <li>Node.js + Express</li>
+                <li>Handlebars (HBS)</li>
+                <li>API WeatherStack & Nominatim</li>
+              </ul>
+            </div>
+            <div class="card">
+              <h3>Kontak</h3>
+              <p>Email: <a href="mailto:m.ilhamcoc70@gmail.com">m.ilhamcoc70@gmail.com</a></p>
+              <p>GitHub: <a href="https://github.com/hammPa">github.com/hammPa</a></p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    {{> footer }}
+  </body>
+</html>
