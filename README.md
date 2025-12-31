@@ -1,4 +1,3 @@
-# 23343009_Praktikum-Pemrograman-Jaringan
 # 📡 Praktikum Pemrograman Jaringan
 
 <p align="center">
