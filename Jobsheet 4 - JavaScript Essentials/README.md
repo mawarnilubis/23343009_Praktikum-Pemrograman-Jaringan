@@ -1,7 +1,7 @@
 # JobSheet 4 – JavaScript Essentials
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-Introduction-brightgreen?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Essentials-brightgreen?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Praktikum-Pemrograman%20Jaringan-blue" />
 </p>
 
@@ -12,8 +12,8 @@
 JobSheet 4 membahas **JavaScript Essentials** sebagai dasar penting dalam
 pengembangan aplikasi web dan jaringan.  
 Pada JobSheet ini, mahasiswa mempelajari JavaScript sebagai bahasa pemrograman
-yang bersifat dinamis dan interaktif, serta memahami peran JavaScript dalam
-mendukung aplikasi modern yang responsif dan real-time.
+yang bersifat dinamis dan interaktif, serta memahami perannya dalam mendukung
+aplikasi modern yang responsif dan real-time.
 
 ---
 
