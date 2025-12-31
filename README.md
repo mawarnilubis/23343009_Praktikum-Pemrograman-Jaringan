@@ -15,7 +15,7 @@ JobSheet per minggu.
 - **Fakultas**    : Teknik  
 - **Universitas** : Universitas Negeri Padang  
 - **Mata Kuliah** : Praktikum Pemrograman Jaringan  
-- **Dosen Pengampu** : Randi  
+- **Dosen Pengampu** : Randi Proska Sandra, S.Pd, M.Sc
 
 ---
 
