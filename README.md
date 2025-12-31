@@ -1,7 +1,7 @@
 # 📡 Praktikum Pemrograman Jaringan
 
 <p align="center">
-  <img src="https://img.shields.io/badge/23343009-Network%20Programming-brightgreen?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/23343009-Network%20Programming-brightgreen?logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Praktikum-Pemrograman%20Jaringan-blue" />
 </p>
 
