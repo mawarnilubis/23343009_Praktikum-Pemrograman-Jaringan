@@ -1,6 +1,14 @@
 # 23343009_Praktikum-Pemrograman-Jaringan
 # 📡 Praktikum Pemrograman Jaringan
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-Network%20Programming-brightgreen?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Praktikum-Pemrograman%20Jaringan-blue" />
+</p>
+
+---
+
+
 Repository ini berisi kumpulan source code dan dokumentasi hasil pengerjaan
 **Praktikum Pemrograman Jaringan** yang dikerjakan secara bertahap berdasarkan
 JobSheet per minggu.
