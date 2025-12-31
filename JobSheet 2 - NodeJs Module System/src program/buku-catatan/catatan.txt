@@ -1,0 +1,16 @@
+DAFTAR CATATAN PRAKTIKUM NODE.JS
+Nama : Mawarni Lubis
+NIM  : 23343009
+
+1. Catatan 1
+Isi catatan 1
+
+2. Catatan 2
+Isi catatan 2
+
+3. Catatan 3
+Isi catatan 3
+
+4. Praktikum NodeJS
+Belajar module system
+
