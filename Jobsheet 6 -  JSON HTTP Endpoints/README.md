@@ -1,5 +1,5 @@
 # JobSheet 6 – JSON HTTP Endpoints
-2
+
 <p align="center">
   <img src="https://img.shields.io/badge/JSON-HTTP%20Endpoints-brightgreen?logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Praktikum-Pemrograman%20Jaringan-blue" />
