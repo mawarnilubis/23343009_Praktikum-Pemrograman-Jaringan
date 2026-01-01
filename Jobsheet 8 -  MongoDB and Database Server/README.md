@@ -1,5 +1,5 @@
 # JobSheet 8 – MongoDB and Database Server
-1
+
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-Database%20Server-brightgreen?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Praktikum-Pemrograman%20Jaringan-blue" />
