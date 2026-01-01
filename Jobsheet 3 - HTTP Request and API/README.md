@@ -1,5 +1,5 @@
 # JobSheet 3 – HTTP Request and API
-2
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-HTTP%20Request%20%26%20API-brightgreen?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Praktikum-Pemrograman%20Jaringan-blue" />
